@@ -4,17 +4,15 @@
   <h1>
     Hi there, I'm Najmul Hossan Muna
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="45" height="45" />
-  </h1>
+ </h1>
   
   <h3>Backend Developer specialising in Python, Django, and REST APIs</h3>
   
-  <p>
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munnah-ahsan-673a232aa/)
-    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munna845)
-   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munnaahsan845@gmail.com)
-
+   <p>
+    <a href="https://www.linkedin.com/in/munnah-ahsan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/munna845/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="mailto:munnaahsan845@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
-
 </div>
 
 
@@ -23,7 +21,7 @@
 ## 🧠 About Me  
 
 As a passionate **Backend Developer** with **1 year of experience**, I specialize in building scalable, secure, and efficient web applications using **Python**, **Django**, and **REST APIs**.  
-I enjoy turning ideas into powerful backend systems, focusing on clean architecture, optimized database design, and maintainable code.My goal is to continuously improve my skills in **data structures, algorithms, and system design**, while contributing to projects that make a real impact.  
+I enjoy turning ideas into powerful backend systems, focusing on clean architecture, optimized database design, and maintainable code.My goal is to continuously improve my skills in **system design**, while contributing to projects that make a real impact.  
 I am dedicated to writing clean, maintainable code and continuously learning new technologies to deliver high-quality software solutions.  
 
 
