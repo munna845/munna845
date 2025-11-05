@@ -2,7 +2,7 @@
 <div align="center">
   
   <h1>
-    Hi there, I'm Najmul Hossan Muna
+    Hi there, I'm Najmul Hossan Munna
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" width="45" height="45" />
  </h1>
   
@@ -20,12 +20,9 @@
 
 ## 🧠 About Me  
 
-As a passionate **Backend Developer** with **1 year of experience**, I specialize in building scalable, secure, and efficient web applications using **Python**, **Django**, and **REST APIs**.  
-I enjoy turning ideas into powerful backend systems, focusing on clean architecture, optimized database design, and maintainable code.My goal is to continuously improve my skills in **system design**, while contributing to projects that make a real impact.  
-I am dedicated to writing clean, maintainable code and continuously learning new technologies to deliver high-quality software solutions.  
+As a passionate **Backend Developer** with **1 year of experience**, I specialize in building scalable, secure, and efficient web applications using **Python**, **Django**, and **REST APIs**.I enjoy turning ideas into powerful backend systems, focusing on clean architecture, optimized database design, and maintainable code.My goal is to continuously improve my skills in **system design**, while contributing to projects that make a real impact.I am dedicated to writing clean, maintainable code and continuously learning new technologies to deliver high-quality software solutions.    
 
-
-
+  
 ---
 
 ## 🧰 My Tech Stack  
@@ -39,6 +36,10 @@ Here are the primary tools and technologies I work with:
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+        <img src="https://github.com/roniahamed/roniahamed/blob/main/img/c-gif-logo.gif" width="65" height="65" />
+      <br>C
+    </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
@@ -51,12 +52,12 @@ Here are the primary tools and technologies I work with:
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+    </tr>
+  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
